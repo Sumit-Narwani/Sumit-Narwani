@@ -3,7 +3,7 @@
 <a href="www.linkedin.com/in/sumitnarwani">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/kush_kunal">
+<a href="https://twitter.com/SumitNarwani2">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:narwani95@gmail.com">
